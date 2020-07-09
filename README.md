@@ -22,22 +22,39 @@
 #### Makers Academy (April 2020 to July 2020)
 
 Full-time software development course focusing on:	
-- Object-Oriented Programming (OOP), Test Driven Development (TDD), Model View Controller (MVC) design patterns, SOLID principles
+- OOP, TDD, MVC, SOLID, DDD
+- Languages/Frameworks: Ruby, Rails, JavaScript, React, SQL, Sinatra, jQuery, HTML, CSS
+- Testing: Rspec, Jasmine, Capybara, Cypress, created own testing framework from scratch
+- Databases: PostgreSQL, Firebase
+
+- Pairing and group work
+- Independent learner and problem-solver
+- Presenting work
+- Remote working
+
 - Agile principles, pair programming, stand-ups, retros, and sprint planning
 - Web frameworks, version control, and CI/CD to create full stack web apps
+- Deployment on Heroku and Surge
 - Facilitating knowledge sharing (selected to be a Mentor for incoming students)
+
 
 #### University of Bristol (September 2012 to June 2016)
 
 - Mechanical Engineering - Masters, MEng (Hons)
 - High 2:1
-- Studied a few modules in coding language MATLAB
+- Studied a variety of modules including several in coding language MATLAB
 - Treasurer for the University of Bristol Engineering Society (TUBES) and member of Engineering Without Borders
 - University of Bristol Campus Consultant for Rolls-Royce, Accenture and EDF Energy
+- Member of University of Bristol Jazz Orchestra (BUJO) and Symphonia
 
-#### Any other qualifications
+#### The Latymer School (September 2005 to June 2012)
 
-That in some arguable way make you a better software developer or well-rounded person
+- A Levels: A*ABB - Mathematics, Further Mathematics, Physics, Music 
+- GCSEs: 4A*s 5As - including Mathematics, Sciences, English, French and Latin
+- Co-founder of Engineering Society
+- Lead Trumpet in four orchestras
+
+
 
 ## <a name="experience">Experience</a>
 
