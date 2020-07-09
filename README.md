@@ -24,12 +24,9 @@
 Full-time software development course:	
 
 - Coding practices/principles: OOP, TDD, MVC, SOLID, DDD and DRY
-- Languages/frameworks/tools: Ruby, Rails, JavaScript, React, SQL, Sinatra, jQuery, HTML and CSS
+- Languages/frameworks/tools: Ruby, Rails, JavaScript, React, SQL (PostgreSQL), Firebase, Sinatra, jQuery, HTML, CSS, Git (version control), Travis CI, Heroku and Surge
 - Test frameworks: Rspec, Jasmine, Capybara, Cypress and created own testing framework from scratch
 - Agile principles: pair programming, stand-ups, retros, and sprint planning
-- Deployment: Heroku and Surge
-- Database frameworks: PostgreSQL and Firebase
-- Full stack web development: Web frameworks, version control, and CI/CD
 - Knowledge sharing: Currently a mentor for another student
 
 
