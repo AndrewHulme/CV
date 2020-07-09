@@ -21,21 +21,16 @@
 
 #### Makers Academy (April 2020 to July 2020)
 
-Full-time software development course focusing on:	
-- OOP, TDD, MVC, SOLID, DDD
-- Languages/Frameworks: Ruby, Rails, JavaScript, React, SQL, Sinatra, jQuery, HTML, CSS
-- Testing: Rspec, Jasmine, Capybara, Cypress, created own testing framework from scratch
-- Databases: PostgreSQL, Firebase
+Full-time software development course:	
 
-- Pairing and group work
-- Independent learner and problem-solver
-- Presenting work
-- Remote working
-
-- Agile principles, pair programming, stand-ups, retros, and sprint planning
-- Web frameworks, version control, and CI/CD to create full stack web apps
-- Deployment on Heroku and Surge
-- Facilitating knowledge sharing (selected to be a Mentor for incoming students)
+- Coding practices/principles: OOP, TDD, MVC, SOLID, DDD and DRY
+- Languages/frameworks/tools: Ruby, Rails, JavaScript, React, SQL, Sinatra, jQuery, HTML and CSS
+- Test frameworks: Rspec, Jasmine, Capybara, Cypress and created own testing framework from scratch
+- Agile principles: pair programming, stand-ups, retros, and sprint planning
+- Deployment: Heroku and Surge
+- Database frameworks: PostgreSQL and Firebase
+- Full stack web development: Web frameworks, version control, and CI/CD
+- Knowledge sharing: Currently a mentor for another student
 
 
 #### University of Bristol (September 2012 to June 2016)
