@@ -15,6 +15,19 @@
 
 ## <a name="projects">Projects</a>
 
+| Project (Repo)   | Description | Links | Technologies |
+|---        |---          |---   |---           |
+| [ThereAndBack](https://github.com/AndrewHulme/route_planner) | Single page web app with the main functionality of plotting a circular route for a given distance. Users can choose their desired mode of transport, and can either use their current location (using geolocation services) or input a location for the starting position. See the website/repository for the full functionality.  | [Deployed](https://thereandback.surge.sh/) <br> [Presentation (4 minute mark)](https://lnkd.in/dk9HyWh) | React, Firebase, Cypress, Istanbul, Leaflet, Location IQ API, Open Route Service API, GraphHopper API, HTML, CSS |
+| [Acebook](https://github.com/AndrewHulme/acebook-the-fat-controllers-frontend) | Clone of the social media site 'Facebook'. Single page web app that allows users to see the feed, sign up, log in, create a new post and edit/delete posts. | [Deployed](http://acebook.surge.sh) | React, Rails, Cypress, RSpec, HTML, CSS |
+| [Makersbnb](https://github.com/AndrewHulme/Makersbnb) |  | n/a | Ruby, Sinatra, RSpec, HTML, CSS |
+| [Bowling Scorecard](https://github.com/AndrewHulme/bowling-challenge) | A dynamic bowling scorecard based on the classic coding kata. | n/a | JavaScript, jQuery, Jasmine, HTML, CSS |
+| [Gilded Rose](https://github.com/AndrewHulme/GildedRose-Refactoring-Kata) |  | n/a | Ruby, RSpec |
+
+
+
+
+For more, please see my [GitHub repo list](https://github.com/AndrewHulme?tab=repositories).
+
 ## <a name="skills">Skills</a>
 
 ## <a name="education">Education</a>
@@ -24,8 +37,8 @@
 Full-time software development course:	
 
 - Coding practices/principles: OOP, TDD, MVC, SOLID, DDD and DRY
-- Languages/frameworks/tools: Ruby, Rails, JavaScript, React, SQL (PostgreSQL), Firebase, Sinatra, jQuery, HTML, CSS, Git (version control), Travis CI, Heroku and Surge
-- Test frameworks: Rspec, Jasmine, Capybara, Cypress and created own testing framework from scratch
+- Languages/frameworks/tools: Ruby, Rails, JavaScript, React, SQL (PostgreSQL), Firebase, Sinatra, jQuery, HTML, CSS, Bootstrap, Git (version control), Markdown, Travis CI, Heroku and Surge
+- Test frameworks: RSpec, Jasmine, Capybara, Cypress and created own testing framework from scratch
 - Agile principles: pair programming, stand-ups, retros, and sprint planning
 - Knowledge sharing: Currently a mentor for another student
 
@@ -58,9 +71,7 @@ Full-time software development course:
 - Involved in the graduate recruitment process
 - Learnt how to use an array of computer programs including Autodesk Revit, AutoCAD, Autodesk Inventor and the Microsoft Office suite.
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+
 
 ## <a name="interests">Interests</a>
 
