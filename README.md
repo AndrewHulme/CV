@@ -2,7 +2,7 @@
   
 # Andrew Hulme #
 
-[About Me](#about_me) | [Tech Stack](#tech-stack) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[About Me](#about_me) | [Projects](#projects) | [Technical Skills](#tech-skills) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 
 
-## <a name="tech-stack">Tech Stack</a> 
+
 
 
 ## <a name="projects">Projects</a>
@@ -28,6 +28,21 @@
 
 For more, please see my [GitHub repo list](https://github.com/AndrewHulme?tab=repositories).
 
+## <a name="tech-skills">Technical Skills</a> 
+
+| Area | Skill |
+| --- | ---
+| Languages | Ruby, JavaScript, SQL, Markdown, HTML, CSS |
+| Technologies | React, Ruby on Rails, Sinatra, jQuery, Bootstrap, npm |
+| Testing Frameworks | RSpec, Jasmine, Capybara, Cypress, created own testing framework from scratch |
+| Test Coverage | SimpleCov, Istanbul |
+| Databases | PostgreSQL, Firebase |
+| DevOps | Travis CI, Heroku, Surge, Trello |
+| Git | Version control, Code review, Pull requests, Branching |
+| Concepts | TDD, BDD, OOP, XP/Agile methodology, RGR test cycle, SOLID code, DRY code, MVC pattern, RESTful APIs, Single page web apps, CRUD, Request/Response, Remote working, Pair programming |
+
+
+
 ## <a name="skills">Skills</a>
 
 ## <a name="education">Education</a>
@@ -38,7 +53,7 @@ Full-time software development course:
 
 - Coding practices/principles: OOP, TDD, MVC, SOLID, DDD and DRY
 - Languages/frameworks/tools: Ruby, Rails, JavaScript, React, SQL (PostgreSQL), Firebase, Sinatra, jQuery, HTML, CSS, Bootstrap, Git (version control), Markdown, Travis CI, Heroku and Surge
-- Test frameworks: RSpec, Jasmine, Capybara, Cypress and created own testing framework from scratch
+- Testing frameworks: RSpec, Jasmine, Capybara, Cypress and created own testing framework from scratch
 - Agile principles: pair programming, stand-ups, retros, and sprint planning
 - Knowledge sharing: Currently a mentor for another student
 
