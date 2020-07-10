@@ -17,7 +17,7 @@
 
 | Project (Repo)   | Description | Links | Technologies |
 |---        |---          |---   |---           |
-| [ThereAndBack](https://github.com/AndrewHulme/route_planner) | Single page route planning app with the main functionality of generating circular routes for a given distance and starting location. Group project of four members.  | [Deployed](https://thereandback.surge.sh/) <br> [Presentation (4 minute mark)](https://lnkd.in/dk9HyWh) | React, Firebase, Cypress, Istanbul, Leaflet, Location IQ API, Open Route Service API, GraphHopper API, HTML, CSS |
+| [ThereAndBack](https://github.com/AndrewHulme/route_planner) | Single page web app with the main functionality of generating circular routes for a given distance and starting location. Group project of four members.  | [Deployed](https://thereandback.surge.sh/) <br> [Presentation (4 minute mark)](https://lnkd.in/dk9HyWh) | React, Firebase, Cypress, Istanbul, Leaflet, Location IQ API, Open Route Service API, GraphHopper API, HTML, CSS |
 | [Acebook](https://github.com/AndrewHulme/acebook-the-fat-controllers-frontend) | Single page web app based on the social media site 'Facebook'. Group project of six team members. | [Deployed](http://acebook.surge.sh) | React, Rails, Cypress, RSpec, HTML, CSS |
 | [Makersbnb](https://github.com/AndrewHulme/Makersbnb) | Single page web app based on the online marketplace 'Airbnb'. Group project of four team members. | n/a | Ruby, Sinatra, RSpec, HTML, CSS |
 | [Bowling Scorecard](https://github.com/AndrewHulme/bowling-challenge) | A dynamic bowling scorecard based on the classic coding kata. | n/a | JavaScript, jQuery, Jasmine, HTML, CSS |
