@@ -82,26 +82,31 @@ See [Technical Skills](#tech-skills) for more information.
 
 ## <a name="experience">Experience</a>
 
+**CBG** (October 2019 to December 2019)
+*Design Engineer*
+- Mechanical Engineering input into several projects
+- Experience working in a small tight-knit team
+- Managed two Mechanical Engineers
+
 **Ramboll** (September 2017 to October 2019)    
 *Design Engineer (promoted from Graduate Mechanical Engineer)*  
 - Experience collaborating and communicating within multidisciplinary teams to deliver on projects
-- Built on leadership skills by delegating work to others 
-- Was the CPD Champion, and organised over 20 CPDs for external companies to come in and provide lunchtime talks to the firm
+- Learnt how to use an array of industry standard Engineering programs including Autodesk Revit, AutoCAD and the Microsoft Office suite
+- Built on leadership skills by managing other Engineers
+- Was the CPD Champion, and organised over 20 CPDs for external companies to provide talks to the firm
 - Involved in the graduate recruitment process
-- Learnt how to use an array of computer programs including Autodesk Revit, AutoCAD, Autodesk Inventor and the Microsoft Office suite
 
 **Ramboll** (July 2014 to August 2014, June 2015 to August 2015, June 2016 to December 2016)
-*Mechanical Intern*  
-- Experience collaborating and communicating within multidisciplinary teams to deliver on projects
-- Quickly learnt an array of industry standard Engineering programs
+*Mechanical Intern (on three separate occasions)*  
+- Member of a multidisciplinary Engineering team
+- Learnt several industry standard Engineering programs
 - Built client relationships, presenting findings and collaborating in order to reach project goals
-- Performed technical presentations directly to colleagues and clients
+- Performed technical presentations to colleagues and clients
 
 **Rolls-Royce, Accenture, and EDF Energy** (February 2013 to July 2014)
 *University of Bristol Campus Consultant*
 - Promoted the companies through presenting in lecture theatres to 150 or more STEM students at once 
-- Was the point of contact for the companies if students had any questions
-
+- Student liaison contact
 
 
 ## <a name="interests">Interests</a>
