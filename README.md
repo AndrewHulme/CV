@@ -2,7 +2,7 @@
   
 # Andrew Hulme #
 
-[About Me](#about_me) | [Projects](#projects) | [Technical Skills](#tech-skills) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[About Me](#about_me) | [Projects](#projects) | [Technical Skills](#tech-skills) | [Soft Skills](#soft-skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 </div>
 
@@ -42,7 +42,16 @@ For more, please see my [GitHub repo list](https://github.com/AndrewHulme?tab=re
 | Concepts | TDD, BDD, OOP, XP/Agile methodology, RGR test cycle, SOLID, DRY, DDD, MVC, RESTful APIs, Single page web apps, CRUD, Request/Response, Remote working, Pair programming, Stand-ups, Retros, Sprint planning |
 
 
-## <a name="skills">Skills</a>
+## <a name="soft-skills">Soft Skills</a>
+
+#### Communication
+#### Interpersonal
+#### Leadership
+#### Problem Solving
+#### Working Well Under Pressure
+#### Initiative
+#### Organiser/Collaborator
+
 
 ## <a name="education">Education</a>
 
