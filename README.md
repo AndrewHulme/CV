@@ -77,7 +77,6 @@ See [Technical Skills](#tech-skills) for more information.
 - High 2:1
 - Studied a variety of modules including several in coding language MATLAB
 - Treasurer for the University of Bristol Engineering Society (TUBES) and member of Engineering Without Borders
-- University of Bristol Campus Consultant for Rolls-Royce, Accenture and EDF Energy
 - Member of University of Bristol Jazz Orchestra (BUJO) and Symphonia
 
 #### The Latymer School (September 2005 to June 2012)
