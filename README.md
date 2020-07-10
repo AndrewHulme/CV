@@ -39,23 +39,27 @@ For more, please see my [GitHub repo list](https://github.com/AndrewHulme?tab=re
 | Databases | PostgreSQL, Firebase |
 | DevOps | Travis CI, Heroku, Surge, Trello |
 | Git | Version control, Code review, Pull requests, Branching |
-| Concepts | TDD, BDD, OOP, XP/Agile methodology, RGR test cycle, SOLID code, DRY code, MVC pattern, RESTful APIs, Single page web apps, CRUD, Request/Response, Remote working, Pair programming |
-
+| Concepts | TDD, BDD, OOP, XP/Agile methodology, RGR test cycle, SOLID, DRY, DDD, MVC, RESTful APIs, Single page web apps, CRUD, Request/Response, Remote working, Pair programming, Stand-ups, Retros, Sprint planning |
 
 
 ## <a name="skills">Skills</a>
 
 ## <a name="education">Education</a>
 
-#### Makers Academy (April 2020 to July 2020)
+#### Makers Academy (March 2020 to July 2020)
 
-Full-time software development course:	
+A full-time 16 week intensive software development bootcamp focusing on:
+- Object-Oriented Programming, Test Driven Development, Model View Controller design patterns, SOLID principles
+- Agile principles, pair programming, stand-ups, retros, and sprint planning
+- Web frameworks, version control, and CI/CD to create full stack web apps
+- Individual self led learning, pair programming, group projects
+- Remote working due to the COVID-19 lockdown
+- Knowledge sharing: I'm currently a mentor for another student
 
-- Coding practices/principles: OOP, TDD, MVC, SOLID, DDD and DRY
-- Languages/frameworks/tools: Ruby, Rails, JavaScript, React, SQL (PostgreSQL), Firebase, Sinatra, jQuery, HTML, CSS, Bootstrap, Git (version control), Markdown, Travis CI, Heroku and Surge
-- Testing frameworks: RSpec, Jasmine, Capybara, Cypress and created own testing framework from scratch
-- Agile principles: pair programming, stand-ups, retros, and sprint planning
-- Knowledge sharing: Currently a mentor for another student
+See [Technical Skills](#tech-skills) for more information.
+
+
+
 
 
 #### University of Bristol (September 2012 to June 2016)
