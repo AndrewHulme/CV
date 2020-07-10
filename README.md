@@ -45,12 +45,24 @@ For more, please see my [GitHub repo list](https://github.com/AndrewHulme?tab=re
 ## <a name="soft-skills">Soft Skills</a>
 
 #### Communication
+- Teamwork large and small teams through Engineering consultancies 
+- Presenting with Campus Consultant, Makers, Graduate challenge
+
+
 #### Interpersonal
+- SE Asia
+
 #### Leadership
+- Delegating work to REC
+- Delegating in Ramboll graduate challenge
+- Lead mechanical engineer for a few projects
+- Mentored Alexandra and Iryna
+
 #### Problem Solving
 #### Working Well Under Pressure
 #### Initiative
 #### Organiser/Collaborator
+- Organiser of CPDs at Ramboll (+ system for future)
 
 
 ## <a name="education">Education</a>
