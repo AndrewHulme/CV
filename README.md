@@ -135,7 +135,7 @@ See [Technical Skills](#tech-skills) for more information.
 
 ## <a name="interests">Interests</a>
 
-- Music
-- Travelling
-- Gym/Cycling/Tennis
-- Volunteering
+- Music: Grade 8 trumpeter, grade 5 pianist and self-taught bass guitarist. Have performed Trumpet internationally.
+- Travelling: Independently backpacked around Southeast Asia from March to July 2017.
+- Sport: Keen cyclist, and have worked for the bicycle repair service ‘Bikes R Us’. Play social tennis and badminton.
+- Volunteering: Received the YAVE (Youth Action Volunteering Enfield) award for leading children’s groups in the local church.
