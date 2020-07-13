@@ -45,24 +45,28 @@ For more, please see my [GitHub repo list](https://github.com/AndrewHulme?tab=re
 ## <a name="soft-skills">Soft Skills</a>
 
 #### Communication
-- Teamwork large and small teams through Engineering consultancies 
-- Presenting with Campus Consultant, Makers, Graduate challenge
+- Presented my final project for my Engineering degree and the final project for Makers Academy, the latter can be seen here: [Presentation (4 minute mark)](https://lnkd.in/dk9HyWh)
+- As the University of Bristol Campus Consultant for Rolls Royce, Accenture and EDF Energy I promoted the companies through presenting in lecture theatres to 150 or more STEM students at once. This resulted in hundreds of students attending their events and workshops
+- At Ramboll I was singled out as one of the best speakers by directors for presenting our Graduate Engineering Challenge
 
-
-#### Interpersonal
-- SE Asia
 
 #### Leadership
 - Delegating work to REC
-- Delegating in Ramboll graduate challenge
-- Lead mechanical engineer for a few projects
+- Lead mechanical engineer for a few projects. DTMs
 - Mentored Alexandra and Iryna
+- Final project disparity
 
-#### Problem Solving
-#### Working Well Under Pressure
+#### Team Player
+- Teamwork large and small teams through Engineering consultancies (Axis Square). Makers and degree teamwork
+- Final project disparity
+
 #### Initiative
 #### Organiser/Collaborator
 - Organiser of CPDs at Ramboll (+ system for future)
+
+
+
+
 
 
 ## <a name="education">Education</a>
