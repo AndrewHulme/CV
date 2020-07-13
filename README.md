@@ -8,9 +8,9 @@
 
 ## <a name="about_me">About Me</a>
 
+A highly motivated software developer, recently trained at Makers Academy, eager to further my coding skills.
 
-
-
+I graduated with a Master's in Mechanical Engineering from University of Bristol where I was first introduced to the magical world of coding. After university I worked in the engineering sphere for several years, building on a number of competencies such as problem solving, communication, leadership and team working skills. I am now keen to apply this wealth of skills and experience to a new-found passion in software development.
 
 
 ## <a name="projects">Projects</a>
