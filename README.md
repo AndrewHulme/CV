@@ -44,25 +44,27 @@ For more, please see my [GitHub repo list](https://github.com/AndrewHulme?tab=re
 
 ## <a name="soft-skills">Soft Skills</a>
 
+#### Team Player
+
+- Involved in a myriad of team projects of varied sizes through my Mechanical Engineering degree, engineering consultancies, Makers Academy and university societies.
+- Was the Ramboll Continuing Professional Development (CPD) Champion, and organised over 20 CPDs for external companies to provide talks to the firm. This gave value to the team by improving our Engineering knowledge, awarding points towards chartership and providing free food. Furthermore I implemented a system for future champions to use when organising CPDs.
+- Implemented a rotating leadership scheme and emotional check-ins in a Makers Academy group project when there was disparity between a few team members. As a result we worked more efficiently and together delivered a high quality project to the deadline.
+
 #### Communication
 - Presented the final project for my Engineering degree and the final project for Makers Academy, the latter can be seen here: [Presentation (4 minute mark)](https://lnkd.in/dk9HyWh)
-- As the University of Bristol Campus Consultant for Rolls Royce, Accenture and EDF Energy I promoted the companies through presenting in lecture theatres to 150 or more STEM students at once. This resulted in hundreds of students attending their events and workshops
-- At Ramboll I was singled out as one of the best speakers by directors for presenting our Graduate Engineering Challenge
+- As the University of Bristol Campus Consultant for Rolls Royce, Accenture and EDF Energy I promoted the companies through presenting in lecture theatres to 150 or more STEM students at once. This resulted in hundreds of students attending their events and workshops.
+- At Ramboll I was singled out as one of the best speakers by directors for presenting our Graduate Engineering Challenge.
 
 #### Leadership
 
-- Interim lead mechanical engineer for a number of large scale Engineering projects at Ramboll. This involved attending design team meetings with the head Engineers/Architects, being the liaison for any Mechanical enquiries and report writing
-- Managed work outsourced to Engineers in India for a large commerical office development at Ramboll 
-- Currently a mentor for a Makers student 
-- Responsible for supporting an intern at Ramboll
+- Interim lead mechanical engineer for a number of large scale Engineering projects at Ramboll. This involved attending design team meetings with the head Engineers/Architects, being the liaison for any Mechanical enquiries and report writing.
+- Managed work outsourced to Engineers in India for a large commerical office development at Ramboll.
+- Currently a mentor for a Makers student.
+- Responsible for supporting an intern at Ramboll.
 
 
 
-#### Team Player
 
-- Involved in a myriad of team projects of varied sizes through my Mechanical Engineering degree, engineering consultancies, Makers Academy and university societies
-- Was the Ramboll Continuing Professional Development (CPD) Champion, and organised over 20 CPDs for external companies to provide talks to the firm. This gave value to the team by improving our Engineering knowledge, awarding points towards chartership and providing free food. Furthermore I implemented a system for future champions to use when organising CPDs
-- Implemented a rotating leadership scheme and emotional check-ins in a Makers Academy group project when there was disparity between a few team members. As a result we worked more efficiently and together delivered a high quality project on to the deadline
 
 
 
@@ -72,12 +74,12 @@ For more, please see my [GitHub repo list](https://github.com/AndrewHulme?tab=re
 #### Makers Academy (March 2020 to July 2020)
 
 A full-time 16 week intensive software development bootcamp focusing on:
-- Object-Oriented Programming, Test Driven Development, Model View Controller design patterns, SOLID principles
-- Agile principles, pair programming, stand-ups, retros, and sprint planning
-- Web frameworks, version control, and CI/CD to create full stack web apps
-- Individual self led learning, pair programming, group projects
-- Remote working due to the COVID-19 lockdown
-- Knowledge sharing: Currently a mentor for a Makers student
+- Object-Oriented Programming, Test Driven Development, Model View Controller design patterns, SOLID principles.
+- Agile principles, pair programming, stand-ups, retros, and sprint planning.
+- Web frameworks, version control, and CI/CD to create full stack web apps.
+- Individual self led learning, pair programming, group projects.
+- Remote working due to the COVID-19 lockdown.
+- Knowledge sharing: Currently a mentor for a Makers student.
 
 See [Technical Skills](#tech-skills) for more information.
 
