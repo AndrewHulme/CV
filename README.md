@@ -49,20 +49,24 @@ For more, please see my [GitHub repo list](https://github.com/AndrewHulme?tab=re
 - As the University of Bristol Campus Consultant for Rolls Royce, Accenture and EDF Energy I promoted the companies through presenting in lecture theatres to 150 or more STEM students at once. This resulted in hundreds of students attending their events and workshops
 - At Ramboll I was singled out as one of the best speakers by directors for presenting our Graduate Engineering Challenge
 
-
 #### Leadership
-- Delegating work to REC
-- Lead mechanical engineer for a few projects. DTMs
-- Mentored Alexandra and Iryna
-- Final project disparity
+
+- Interim lead mechanical engineer for a number of large scale Engineering projects at Ramboll. This involved attending design team meetings with the head Engineers/Architects and being the liaison for any Mechanical enquiries
+- Managed work outsourced to Engineers in India for a large commerical office development at Ramboll 
+- Currently a mentor for a Makers student 
+- Responsible for looking after an intern at Ramboll
+
+
+
 
 #### Team Player
 - Teamwork large and small teams through Engineering consultancies (Axis Square). Makers and degree teamwork
 - Final project disparity
+- Organiser of CPDs at Ramboll (+ system for future)
+- Final project disparity
+
 
 #### Initiative
-#### Organiser/Collaborator
-- Organiser of CPDs at Ramboll (+ system for future)
 
 
 
@@ -79,7 +83,7 @@ A full-time 16 week intensive software development bootcamp focusing on:
 - Web frameworks, version control, and CI/CD to create full stack web apps
 - Individual self led learning, pair programming, group projects
 - Remote working due to the COVID-19 lockdown
-- Knowledge sharing: I'm currently a mentor for another student
+- Knowledge sharing: Currently a mentor for a Makers student
 
 See [Technical Skills](#tech-skills) for more information.
 
