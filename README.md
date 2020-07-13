@@ -51,24 +51,18 @@ For more, please see my [GitHub repo list](https://github.com/AndrewHulme?tab=re
 
 #### Leadership
 
-- Interim lead mechanical engineer for a number of large scale Engineering projects at Ramboll. This involved attending design team meetings with the head Engineers/Architects and being the liaison for any Mechanical enquiries
+- Interim lead mechanical engineer for a number of large scale Engineering projects at Ramboll. This involved attending design team meetings with the head Engineers/Architects, being the liaison for any Mechanical enquiries and report writing
 - Managed work outsourced to Engineers in India for a large commerical office development at Ramboll 
 - Currently a mentor for a Makers student 
-- Responsible for looking after an intern at Ramboll
-
+- Responsible for supporting an intern at Ramboll
 
 
 
 #### Team Player
-- Teamwork large and small teams through Engineering consultancies (Axis Square). Makers and degree teamwork
-- Final project disparity
-- Organiser of CPDs at Ramboll (+ system for future)
-- Final project disparity
 
-
-#### Initiative
-
-
+- Involved in a myriad of team projects of varied sizes through my Mechanical Engineering degree, engineering consultancies, Makers Academy and university societies
+- Was the Ramboll Continuing Professional Development (CPD) Champion, and organised over 20 CPDs for external companies to provide talks to the firm. This gave value to the team by improving our Engineering knowledge, awarding points towards chartership and providing free food. Furthermore I implemented a system for future champions to use when organising CPDs
+- Implemented a rotating leadership scheme and emotional check-ins in a Makers Academy group project when there was disparity between a few team members. As a result we worked more efficiently and together delivered a high quality project on to the deadline
 
 
 
@@ -121,7 +115,7 @@ See [Technical Skills](#tech-skills) for more information.
 - Experience collaborating and communicating within multidisciplinary teams to deliver on projects
 - Learnt how to use an array of industry standard Engineering programs including Autodesk Revit, AutoCAD and the Microsoft Office suite
 - Built on leadership skills by managing other Engineers
-- Was the CPD Champion, and organised over 20 CPDs for external companies to provide talks to the firm
+- Was the Continuing Professional Development (CPD) Champion, and organised over 20 CPDs for external companies to provide talks to the firm
 - Involved in the graduate recruitment process
 
 **Ramboll** (July 2014 to August 2014, June 2015 to August 2015, June 2016 to December 2016)
