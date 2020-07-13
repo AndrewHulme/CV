@@ -8,14 +8,14 @@
 
 ## <a name="about_me">About Me</a>
 
-A highly motivated software developer, recently trained at Makers Academy, eager to further my coding skills.
+A highly motivated software developer, recently trained at Makers Academy.
 
-I graduated with a Master's in Mechanical Engineering from University of Bristol where I was first introduced to the magical world of coding. After university I worked in the engineering sphere for several years, building on a number of competencies such as problem solving, communication, leadership and team working skills. I am now keen to apply this wealth of skills and experience to a new-found passion in software development.
+I graduated with a Master's in Mechanical Engineering from the University of Bristol where I was first introduced to the world of coding. After university I worked in the engineering sphere for several years, building on a number of competencies such as problem solving, communication, leadership and team working skills. I am now keen to apply this wealth of skills and experience to a new-found passion in software development.
 
 
 ## <a name="projects">Projects</a>
 
-| Project (Repo)   | Description | Links | Technologies |
+| Project (Repository)   | Description | Links | Technologies |
 |---        |---          |---   |---           |
 | [ThereAndBack](https://github.com/AndrewHulme/route_planner) | Single page web app with the main functionality of generating circular routes for a given distance and starting location. Group project of four members.  | [Deployed](https://thereandback.surge.sh/) <br> [Presentation (4 minute mark)](https://lnkd.in/dk9HyWh) | React, Firebase, Cypress, Istanbul, Leaflet, Location IQ API, Open Route Service API, GraphHopper API, HTML, CSS |
 | [Acebook](https://github.com/AndrewHulme/acebook-the-fat-controllers-frontend) | Single page web app based on the social media site 'Facebook'. Group project of six team members. | [Deployed](http://acebook.surge.sh) | React, Ruby on Rails, Cypress, RSpec, Capybara, HTML, CSS |
@@ -46,20 +46,20 @@ For more, please see my [GitHub repo list](https://github.com/AndrewHulme?tab=re
 
 #### Team Player
 
-- Involved in a myriad of team projects of varied sizes through my Mechanical Engineering degree, engineering consultancies, Makers Academy and university societies.
-- Was the Ramboll Continuing Professional Development (CPD) Champion, and organised over 20 CPDs for external companies to provide talks to the firm. This gave value to the team by improving our Engineering knowledge, awarding points towards chartership and providing free food. Furthermore I implemented a system for future champions to use when organising CPDs.
+- Involved in team projects of varied sizes through my Mechanical Engineering degree, engineering consultancies, Makers Academy and university societies.
+- Continuing Professional Development (CPD) Champion for Ramboll, and organised over 20 CPDs for external companies to provide talks to the firm. This gave value to the team by improving our engineering knowledge, awarding points towards chartership and providing free food! Furthermore I implemented a system for future champions to use when organising CPDs.
 - Implemented a rotating leadership scheme and emotional check-ins in a Makers Academy group project when there was disparity between a few team members. As a result we worked more efficiently and together delivered a high quality project to the deadline.
 
 #### Communication
-- Presented the final project for my Engineering degree and the final project for Makers Academy, the latter can be seen here: [Presentation (4 minute mark)](https://lnkd.in/dk9HyWh)
-- As the University of Bristol Campus Consultant for Rolls Royce, Accenture and EDF Energy I promoted the companies through presenting in lecture theatres to 150 or more STEM students at once. This resulted in hundreds of students attending their events and workshops.
+- Presented the final project for Makers Academy, which can be seen here: [Presentation (4 minute mark)](https://lnkd.in/dk9HyWh)
+- As the University of Bristol Campus Consultant for Rolls Royce, Accenture and EDF Energy I promoted the companies through presenting in lecture theatres to 150 or more STEM students at once. This resulted in hundreds of students attending these events and workshops.
 - At Ramboll I was singled out as one of the best speakers by directors for presenting our Graduate Engineering Challenge.
 
 #### Leadership
 
-- Interim lead mechanical engineer for a number of large scale Engineering projects at Ramboll. This involved attending design team meetings with the head Engineers/Architects, being the liaison for any Mechanical enquiries and report writing.
-- Managed work outsourced to Engineers in India for a large commerical office development at Ramboll.
-- Currently a mentor for a Makers student.
+- Interim lead mechanical engineer for a number of large-scale engineering projects at Ramboll. This involved attending design team meetings with the head engineers/architects and being the point of contact for any mechanical enquiries.
+- Managed work outsourced to engineers in India for a large commerical office development at Ramboll.
+- Mentor for a Makers student.
 - Responsible for supporting an intern at Ramboll.
 
 
