@@ -45,7 +45,7 @@ For more, please see my [GitHub repo list](https://github.com/AndrewHulme?tab=re
 ## <a name="soft-skills">Soft Skills</a>
 
 #### Communication
-- Presented my final project for my Engineering degree and the final project for Makers Academy, the latter can be seen here: [Presentation (4 minute mark)](https://lnkd.in/dk9HyWh)
+- Presented the final project for my Engineering degree and the final project for Makers Academy, the latter can be seen here: [Presentation (4 minute mark)](https://lnkd.in/dk9HyWh)
 - As the University of Bristol Campus Consultant for Rolls Royce, Accenture and EDF Energy I promoted the companies through presenting in lecture theatres to 150 or more STEM students at once. This resulted in hundreds of students attending their events and workshops
 - At Ramboll I was singled out as one of the best speakers by directors for presenting our Graduate Engineering Challenge
 
