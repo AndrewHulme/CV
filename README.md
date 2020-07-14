@@ -71,7 +71,7 @@ For more, please see my [GitHub repo list](https://github.com/AndrewHulme?tab=re
 
 ## <a name="education">Education</a>
 
-#### Makers Academy (March 2020 to July 2020)
+#### Makers Academy (March to July 2020)
 
 A full-time 16 week intensive software development bootcamp focusing on:
 - Object-Oriented Programming, Test Driven Development, Model View Controller design patterns, SOLID principles.
@@ -129,7 +129,7 @@ Please see [Technical Skills](#tech-skills) for more information.
 
 ## <a name="interests">Interests</a>
 
-- Music: Grade 8 trumpeter, grade 5 pianist and self-taught bass guitarist. Have performed Trumpet internationally.
+- Music: Grade 8 trumpeter, grade 5 pianist and self-taught bass guitarist. Have performed trumpet internationally.
 - Travelling: Independently backpacked around Southeast Asia from March to July 2017.
-- Sport: Keen cyclist, and have worked for the bicycle repair service ‘Bikes R Us’. Play social tennis and badminton.
+- Sport: Keen tennis player and cyclist, and have worked for the bicycle repair service ‘Bikes R Us’.
 - Volunteering: Received the YAVE (Youth Action Volunteering Enfield) award for leading children’s groups in the local church.
