@@ -77,11 +77,9 @@ A full-time 16 week intensive software development bootcamp focusing on:
 - Object-Oriented Programming, Test Driven Development, Model View Controller design patterns, SOLID principles.
 - Agile principles, pair programming, stand-ups, retros, and sprint planning.
 - Web frameworks, version control, and CI/CD to create full stack web apps.
-- Individual self led learning, pair programming, group projects.
 - Remote working due to the COVID-19 lockdown.
-- Knowledge sharing: Currently a mentor for a Makers student.
 
-See [Technical Skills](#tech-skills) for more information.
+Please see [Technical Skills](#tech-skills) for more information.
 
 
 
@@ -89,10 +87,9 @@ See [Technical Skills](#tech-skills) for more information.
 
 #### University of Bristol (September 2012 to June 2016)
 
-- Mechanical Engineering - Masters, MEng (Hons)
-- High 2:1
+- Mechanical Engineering - Masters, MEng (Hons) - High 2:1
 - Studied a variety of modules including several in coding language MATLAB
-- Treasurer for the University of Bristol Engineering Society (TUBES) and member of Engineering Without Borders
+- Treasurer for the University of Bristol Engineering Society and member of Engineering Without Borders
 - Member of University of Bristol Jazz Orchestra (BUJO) and Symphonia
 
 #### The Latymer School (September 2005 to June 2012)
@@ -100,7 +97,7 @@ See [Technical Skills](#tech-skills) for more information.
 - A Levels: A*ABB - Mathematics, Further Mathematics, Physics, Music 
 - GCSEs: 4A*s 5As - including Mathematics, Sciences, English, French and Latin
 - Co-founder of Engineering Society
-- Lead Trumpet in four orchestras
+- Lead trumpet in four orchestras
 
 
 
