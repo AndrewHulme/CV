@@ -46,12 +46,12 @@ For more, please see my [GitHub repo list](https://github.com/AndrewHulme?tab=re
 
 #### Team Player
 
-- Involved in team projects of varied sizes through my Mechanical Engineering degree, engineering consultancies, Makers Academy and university societies.
+- Involved in team projects through my Mechanical Engineering degree, engineering consultancies, Makers Academy and university societies.
 - Continuing Professional Development (CPD) Champion for Ramboll, and organised over 20 CPDs for external companies to provide talks to the firm. This gave value to the team by improving our engineering knowledge, awarding points towards chartership and providing free food! Furthermore I implemented a system for future champions to use when organising CPDs.
-- Implemented a rotating leadership scheme and emotional check-ins in a Makers Academy group project when there was disparity between a few team members. As a result we worked more efficiently and together delivered a high quality project to the deadline.
+- Implemented a rotating leadership scheme and emotional check-ins in a Makers Academy group project when there was disparity between some team members. As a result we worked more efficiently and together delivered a high quality project to the deadline.
 
 #### Communication
-- Presented the final project for Makers Academy, which can be seen here: [Presentation (4 minute mark)](https://lnkd.in/dk9HyWh)
+- Presented the final project for Makers Academy, which can be seen [here (4 minute mark)](https://lnkd.in/dk9HyWh).
 - As the University of Bristol Campus Consultant for Rolls Royce, Accenture and EDF Energy I promoted the companies through presenting in lecture theatres to 150 or more STEM students at once. This resulted in hundreds of students attending these events and workshops.
 - At Ramboll I was singled out as one of the best speakers by directors for presenting our Graduate Engineering Challenge.
 
@@ -59,9 +59,8 @@ For more, please see my [GitHub repo list](https://github.com/AndrewHulme?tab=re
 
 - Interim lead mechanical engineer for a number of large-scale engineering projects at Ramboll. This involved attending design team meetings with the head engineers/architects and being the point of contact for any mechanical enquiries.
 - Managed work outsourced to engineers in India for a large commerical office development at Ramboll.
-- Mentor for a Makers student.
 - Responsible for supporting an intern at Ramboll.
-
+- Mentor for a Makers student.
 
 
 
@@ -129,7 +128,7 @@ Please see [Technical Skills](#tech-skills) for more information.
 
 ## <a name="interests">Interests</a>
 
-- Music: Grade 8 trumpeter, grade 5 pianist and self-taught bass guitarist. Have performed trumpet internationally.
+- Music: Grade 8 trumpeter, grade 5 pianist and self-taught bass guitarist.
 - Travelling: Independently backpacked around Southeast Asia from March to July 2017.
 - Sport: Keen tennis player and cyclist, and have worked for the bicycle repair service ‘Bikes R Us’.
 - Volunteering: Received the YAVE (Youth Action Volunteering Enfield) award for leading children’s groups in the local church.
