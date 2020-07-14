@@ -103,25 +103,22 @@ Please see [Technical Skills](#tech-skills) for more information.
 
 ## <a name="experience">Experience</a>
 
-**CBG** (October 2019 to December 2019)
+**CBG** (October to December 2019)
 *Design Engineer*
-- Mechanical Engineering input into several projects
+- Mechanical engineering input into several projects
 - Experience working in a small tight-knit team
-- Managed two Mechanical Engineers
 
 **Ramboll** (September 2017 to October 2019)    
 *Design Engineer (promoted from Graduate Mechanical Engineer)*  
 - Experience collaborating and communicating within multidisciplinary teams to deliver on projects
-- Learnt how to use an array of industry standard Engineering programs including Autodesk Revit, AutoCAD and the Microsoft Office suite
-- Built on leadership skills by managing other Engineers
-- Was the Continuing Professional Development (CPD) Champion, and organised over 20 CPDs for external companies to provide talks to the firm
+- Learnt how to use an array of industry standard engineering programs including Autodesk Revit, AutoCAD and the Microsoft Office suite
+- Continuing Professional Development (CPD) Champion
 - Involved in the graduate recruitment process
 
-**Ramboll** (July 2014 to August 2014, June 2015 to August 2015, June 2016 to December 2016)
+**Ramboll** (July to August 2014, June to August 2015, June to December 2016)
 *Mechanical Intern (on three separate occasions)*  
-- Member of a multidisciplinary Engineering team
-- Learnt several industry standard Engineering programs
-- Built client relationships, presenting findings and collaborating in order to reach project goals
+- Member of multidisciplinary engineering teams
+- Built relationships, presenting findings and collaborating in order to reach project goals
 - Performed technical presentations to colleagues and clients
 
 **Rolls-Royce, Accenture, and EDF Energy** (February 2013 to July 2014)
