@@ -52,7 +52,7 @@ For more, please see my [GitHub repo list](https://github.com/AndrewHulme?tab=re
 
 #### Communication
 - Presented the final project for Makers Academy, which can be seen [here (4 minute mark)](https://lnkd.in/dk9HyWh).
-- As the University of Bristol Campus Consultant for Rolls Royce, Accenture and EDF Energy I promoted the companies through presenting in lecture theatres to 150 or more STEM students at once. This resulted in hundreds of students attending these events and workshops.
+- As the University of Bristol Campus Consultant for Rolls Royce, Accenture and EDF Energy I promoted the companies through presenting in lecture theatres to 150 or more STEM students at once. This resulted in hundreds of students attending the events and workshops.
 - At Ramboll I was singled out as one of the best speakers by directors for presenting our Graduate Engineering Challenge.
 
 #### Leadership
