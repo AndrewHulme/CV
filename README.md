@@ -58,7 +58,7 @@ For more, please see my [GitHub repo list](https://github.com/AndrewHulme?tab=re
 #### Leadership
 
 - Interim lead mechanical engineer for a number of large-scale engineering projects at Ramboll. This involved attending design team meetings with the head engineers/architects and being the point of contact for any mechanical enquiries.
-- Managed work outsourced to engineers in India for a large commerical office development at Ramboll.
+- Managed work outsourced to engineers in India for a large commercial office development at Ramboll.
 - Responsible for supporting an intern at Ramboll.
 - Mentor for a Makers student.
 
