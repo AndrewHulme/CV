@@ -47,8 +47,8 @@ For more, please see my [GitHub repo list](https://github.com/AndrewHulme?tab=re
 #### Team Player
 
 - Involved in team projects through my Mechanical Engineering degree, engineering consultancies, Makers Academy and university societies.
-- Continuing Professional Development (CPD) Champion for Ramboll, and organised over 20 CPDs for external companies to provide talks to the firm. This gave value to the team by improving our engineering knowledge, awarding points towards chartership and providing free food! Furthermore I implemented a system for future champions to use when organising CPDs.
-- Implemented a rotating leadership scheme and emotional check-ins in a Makers Academy group project when there was disparity between some team members. As a result we worked more efficiently and together delivered a high quality project to the deadline.
+- Continuing Professional Development (CPD) Champion for Ramboll, and organised over 20 CPDs for external companies to provide talks to the firm. This gave value to the team by improving our engineering knowledge, awarding points towards chartership and providing free food! Furthermore, I implemented a system for future champions to use when organising CPDs.
+- Implemented a rotating leadership scheme and emotional check-ins in a Makers Academy group project when there was disparity between some team members. As a result, we worked more efficiently and together delivered a high quality project to the deadline.
 
 #### Communication
 - Presented the final project for Makers Academy, which can be seen [here (4 minute mark)](https://lnkd.in/dk9HyWh).
