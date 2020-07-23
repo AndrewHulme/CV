@@ -32,14 +32,14 @@ For more, please see my [GitHub repo list](https://github.com/AndrewHulme?tab=re
 
 | Area | Skill |
 | --- | ---
-| Languages | Ruby, JavaScript, SQL, Markdown, HTML, CSS |
-| Technologies | React, Ruby on Rails, Sinatra, jQuery, Bootstrap, npm |
+| Languages | JavaScript, Ruby, SQL, Markdown, HTML, CSS |
+| Technologies | React, Ruby on Rails, Sinatra, jQuery, Bootstrap, npm, AWS (S3, Cloud9) |
 | Testing Frameworks | RSpec, Jasmine, Capybara, Cypress, created own testing framework from scratch |
 | Test Coverage | SimpleCov, Istanbul |
 | Databases | PostgreSQL, Firebase |
-| DevOps | Travis CI, Heroku, Surge, Trello |
-| Git | Version control, Code review, Pull requests, Branching |
-| Concepts | TDD, BDD, OOP, XP/Agile methodology, RGR test cycle, SOLID, DRY, DDD, MVC, RESTful APIs, Single page web apps, CRUD, Request/Response, Remote working, Pair programming, Stand-ups, Retros, Sprint planning |
+| DevOps | Travis CI, Heroku, Surge |
+| Version Control | GitHub |
+| Concepts | TDD, BDD, OOP, Agile methodology, RGR cycle, SOLID, DRY, DDD, MVC, RESTful APIs, Single page web apps, CRUD, Request/Response, Remote working, Pair programming, Stand-ups, Retros, Sprint planning |
 
 
 ## <a name="soft-skills">Soft Skills</a>
