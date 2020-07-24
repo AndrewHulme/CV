@@ -110,9 +110,11 @@ Please see [Technical Skills](#tech-skills) for more information.
 **Ramboll** (September 2017 to October 2019)    
 *Design Engineer (promoted from Graduate Mechanical Engineer)*  
 - Experience collaborating and communicating within multidisciplinary teams to deliver on projects
-- Learnt an array of industry standard engineering programs including Autodesk Revit, AutoCAD and the Microsoft Office suite
-- Continuing Professional Development (CPD) Champion
-- Involved in the graduate recruitment process
+- Interim lead mechanical engineer for a number of large-scale engineering projects
+- Managed work outsourced to engineers in India for a large commercial office development
+- Continuing Professional Development (CPD) Champion – organised over 20 engineering training events and created an organisation plan for future employees
+- Involved in the graduate recruitment process and responsible for supporting an intern
+- Singled out as one of the best speakers by directors for presenting our Graduate Challenge
 
 **Ramboll** (July to August 2014, June to August 2015, June to December 2016)
 *Mechanical Intern (on three separate occasions)*  
