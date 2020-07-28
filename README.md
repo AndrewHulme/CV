@@ -63,16 +63,16 @@ Please see [Technical Skills](#tech-skills) for more information.
 
 #### University of Bristol (September 2012 to June 2016)
 
-- Mechanical Engineering - Masters, MEng (Hons) - High 2:1
-- Studied a variety of modules including several in coding language MATLAB
-- Treasurer for the University of Bristol Engineering Society and member of Engineering Without Borders
-- Member of University of Bristol Jazz Orchestra (BUJO) and Symphonia
+- Mechanical Engineering - Masters, MEng (Hons) - High 2:1.
+- Studied a variety of modules including several in coding language MATLAB.
+- Treasurer for the University of Bristol Engineering Society and member of Engineering Without Borders.
+- Member of University of Bristol Jazz Orchestra (BUJO) and Symphonia.
 
 #### The Latymer School (September 2005 to June 2012)
 
-- A Levels: A*ABB - Mathematics, Further Mathematics, Physics, Music 
-- Co-founder of Engineering Society
-- Lead trumpet in four orchestras
+- A Levels: A*ABB - Mathematics, Further Mathematics, Physics, Music.
+- Co-founder of Engineering Society.
+- Lead trumpet in four orchestras.
 
 
 
@@ -80,28 +80,28 @@ Please see [Technical Skills](#tech-skills) for more information.
 
 **CBG** (October to December 2019)
 *Design Engineer*
-- Mechanical engineering input into several projects
-- Experience working in a small tight-knit team
+- Mechanical engineering input into several projects.
+- Experience working in a small tight-knit team.
 
 **Ramboll** (September 2017 to October 2019)    
 *Design Engineer (promoted from Graduate Mechanical Engineer)*  
-- Experience collaborating and communicating within multidisciplinary teams to deliver on projects
-- Interim lead mechanical engineer for a number of large-scale engineering projects
-- Managed work outsourced to engineers in India for a large commercial office development
-- Continuing Professional Development (CPD) Champion – organised over 20 engineering training events and created an organisation plan for future employees
-- Involved in the graduate recruitment process and responsible for supporting an intern
-- Singled out as one of the best speakers by directors for presenting our Graduate Challenge
+- Experience collaborating and communicating within multidisciplinary teams to deliver on projects.
+- Interim lead mechanical engineer for a number of large-scale engineering projects.
+- Managed work outsourced to engineers in India for a large commercial office development.
+- Continuing Professional Development (CPD) Champion – organised over 20 engineering training events and created an organisation plan for future employees.
+- Involved in the graduate recruitment process and responsible for supporting an intern.
+- Singled out as one of the best speakers by directors for presenting our Graduate Challenge.
 
 **Ramboll** (July to August 2014, June to August 2015, June to December 2016)
 *Mechanical Intern (on three separate occasions)*  
-- Member of multidisciplinary engineering teams
-- Built relationships, presenting findings and collaborating in order to reach project goals
-- Performed technical presentations to colleagues and clients
+- Member of multidisciplinary engineering teams.
+- Built relationships, presenting findings and collaborating in order to reach project goals.
+- Performed technical presentations to colleagues and clients.
 
 **Rolls-Royce, Accenture, and EDF Energy** (February 2013 to July 2014)
 *University of Bristol Campus Consultant*
-- Promoted the companies through presenting in lecture theatres to 150 or more STEM students at once 
-- Student liaison contact
+- Promoted the companies through presenting in lecture theatres to 150 or more STEM students at once.
+- Student liaison contact.
 
 
 ## <a name="soft-skills">Soft Skills</a>
