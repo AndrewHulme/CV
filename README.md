@@ -2,7 +2,7 @@
   
 # Andrew Hulme #
 
-[About Me](#about_me) | [Projects](#projects) | [Technical Skills](#tech-skills) | [Soft Skills](#soft-skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[About Me](#about_me) | [Projects](#projects) | [Technical Skills](#tech-skills) | [Education](#education) | [Experience](#experience) | [Soft Skills](#soft-skills) | [Interests](#interests)
 
 </div>
 
@@ -40,29 +40,6 @@ For more, please see my [GitHub repo list](https://github.com/AndrewHulme?tab=re
 | DevOps | Travis CI, Heroku, Surge |
 | Version Control | GitHub |
 | Concepts | TDD, BDD, OOP, Agile methodology, RGR cycle, SOLID, DRY, DDD, MVC, RESTful APIs, Single page web apps, CRUD, Request/Response, Remote working, Pair programming, Stand-ups, Retros, Sprint planning |
-
-
-## <a name="soft-skills">Soft Skills</a>
-
-#### Team Player
-
-- Involved in team projects through my Mechanical Engineering degree, engineering consultancies, Makers Academy and university societies.
-- Continuing Professional Development (CPD) Champion for Ramboll, and organised over 20 CPDs for external companies to provide talks to the firm. This gave value to the team by improving our engineering knowledge, awarding points towards chartership and providing free food! Furthermore, I implemented a system for future champions to use when organising CPDs.
-- Implemented a rotating leadership scheme and emotional check-ins in a Makers Academy group project when there was disparity between some team members. As a result, we worked more efficiently and together delivered a high quality project to the deadline.
-
-#### Communication
-- Presented the final project for Makers Academy, which can be seen [here (4 minute mark)](https://lnkd.in/dk9HyWh).
-- As the University of Bristol Campus Consultant for Rolls Royce, Accenture and EDF Energy I promoted the companies through presenting in lecture theatres to 150 or more STEM students at once. This resulted in hundreds of students attending the events and workshops.
-- At Ramboll I was singled out as one of the best speakers by directors for presenting our Graduate Engineering Challenge.
-
-#### Leadership
-
-- Interim lead mechanical engineer for a number of large-scale engineering projects at Ramboll. This involved attending design team meetings with the head engineers/architects and being the point of contact for any mechanical enquiries.
-- Managed work outsourced to engineers in India for a large commercial office development at Ramboll.
-- Responsible for supporting an intern at Ramboll.
-- Mentor for a Makers student.
-
-
 
 
 
@@ -125,6 +102,27 @@ Please see [Technical Skills](#tech-skills) for more information.
 *University of Bristol Campus Consultant*
 - Promoted the companies through presenting in lecture theatres to 150 or more STEM students at once 
 - Student liaison contact
+
+
+## <a name="soft-skills">Soft Skills</a>
+
+#### Team Player
+
+- Involved in team projects through my Mechanical Engineering degree, engineering consultancies, Makers Academy and university societies.
+- Continuing Professional Development (CPD) Champion for Ramboll, and organised over 20 CPDs for external companies to provide talks to the firm. This gave value to the team by improving our engineering knowledge, awarding points towards chartership and providing free food! Furthermore, I implemented a system for future champions to use when organising CPDs.
+- Implemented a rotating leadership scheme and emotional check-ins in a Makers Academy group project when there was disparity between some team members. As a result, we worked more efficiently and together delivered a high quality project to the deadline.
+
+#### Communication
+- Presented the final project for Makers Academy, which can be seen [here (4 minute mark)](https://lnkd.in/dk9HyWh).
+- As the University of Bristol Campus Consultant for Rolls Royce, Accenture and EDF Energy I promoted the companies through presenting in lecture theatres to 150 or more STEM students at once. This resulted in hundreds of students attending the events and workshops.
+- At Ramboll I was singled out as one of the best speakers by directors for presenting our Graduate Engineering Challenge.
+
+#### Leadership
+
+- Interim lead mechanical engineer for a number of large-scale engineering projects at Ramboll. This involved attending design team meetings with the head engineers/architects and being the point of contact for any mechanical enquiries.
+- Managed work outsourced to engineers in India for a large commercial office development at Ramboll.
+- Responsible for supporting an intern at Ramboll.
+- Mentor for a Makers student.
 
 
 ## <a name="interests">Interests</a>
