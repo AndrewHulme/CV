@@ -94,7 +94,6 @@ Please see [Technical Skills](#tech-skills) for more information.
 #### The Latymer School (September 2005 to June 2012)
 
 - A Levels: A*ABB - Mathematics, Further Mathematics, Physics, Music 
-- GCSEs: 4A*s 5As - including Mathematics, Sciences, English, French and Latin
 - Co-founder of Engineering Society
 - Lead trumpet in four orchestras
 
