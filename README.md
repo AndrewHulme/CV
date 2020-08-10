@@ -119,7 +119,7 @@ Please see [Technical Skills](#tech-skills) for more information.
 
 #### Leadership
 
-- Interim lead mechanical engineer for a number of large-scale engineering projects at Ramboll. This involved attending design team meetings with the head engineers/architects and being the point of contact for any mechanical enquiries.
+- Interim Lead Mechanical Engineer for a number of large-scale engineering projects at Ramboll. This involved attending design team meetings with the head engineers/architects and being the point of contact for any mechanical enquiries.
 - Managed work outsourced to engineers in India for a large commercial office development at Ramboll.
 - Responsible for supporting an intern at Ramboll.
 - Mentor for a Makers student.
