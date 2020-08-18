@@ -2,6 +2,8 @@
   
 # Andrew Hulme #
 
+### [LinkedIn](https://linkedin.com/in/andrew-hulme) | [Website](https://andrewhulme.github.io/)
+
 [About Me](#about_me) | [Projects](#projects) | [Technical Skills](#tech-skills) | [Education](#education) | [Experience](#experience) | [Soft Skills](#soft-skills) | [Interests](#interests)
 
 </div>
