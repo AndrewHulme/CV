@@ -40,7 +40,7 @@ For more, please see my [GitHub repo list](https://github.com/AndrewHulme?tab=re
 | Technologies | React, Ruby on Rails, Sinatra, jQuery, Bootstrap, npm, AWS (S3, Cloud9) |
 | Testing Frameworks | RSpec, Jasmine, Capybara, Cypress, created own testing framework from scratch |
 | Test Coverage | SimpleCov, Istanbul |
-| Databases | PostgreSQL, Firebase |
+| Databases | PostgreSQL, Firebase, MongoDB |
 | DevOps | Travis CI, Heroku, Surge |
 | Version Control | GitHub |
 | Concepts | TDD, BDD, OOP, Agile methodology, RGR cycle, SOLID, DRY, DDD, MVC, RESTful APIs, Single page web apps, CRUD, Request/Response, Remote working, Pair programming, Stand-ups, Retros, Sprint planning |
