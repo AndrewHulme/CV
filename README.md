@@ -2,7 +2,8 @@
   
 # Andrew Hulme #
 
-### [LinkedIn](https://linkedin.com/in/andrew-hulme) | [Website](https://andrewhulme.github.io/)
+<a href="https://andrewhulme.github.io/"><img src="images/www.png" width="95" alt="My website" align="left"></a>
+<a href="https://linkedin.com/in/andrew-hulme"><img src="images/linkedin.png" width="110" alt="LinkedIn"></a>
 
 #
 
