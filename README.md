@@ -22,6 +22,7 @@ I graduated with a Master's in Mechanical Engineering from the University of Bri
 
 | Project (Repository)   | Description | Links | Technologies |
 |---        |---          |---   |---           |
+| [Swipe and Shop](https://github.com/GarethWoodman/swipe_and_shop) | Current work in progress. Sell and buy items in a 'Tinder' style app | n/a | React JS/React Native, Node.js, MongoDB, Express.js, JavaScript, Mongoose, Cypress, Bootstrap, HTML, CSS |
 | [ThereAndBack](https://github.com/AndrewHulme/route_planner) | Single page web app with the main functionality of generating circular routes for a given distance and starting location. Group project of four members.  | [Deployed](https://thereandback.surge.sh/) <br> [Presentation (4 minute mark)](https://lnkd.in/dk9HyWh) | React, Firebase, Cypress, Istanbul, Leaflet, Location IQ API, Open Route Service API, GraphHopper API, Bootstrap, HTML, CSS |
 | [Acebook](https://github.com/AndrewHulme/acebook-the-fat-controllers-frontend) | Single page web app based on the social media site 'Facebook'. Group project of six team members. | [Deployed](http://acebook.surge.sh) | React, Ruby on Rails, Cypress, RSpec, Capybara, Bootstrap, HTML, CSS |
 | [Makersbnb](https://github.com/AndrewHulme/Makersbnb) | Single page web app based on the online marketplace 'Airbnb'. Group project of four team members. | n/a | Ruby, Sinatra, RSpec, Capybara, Bootstrap, HTML, CSS |
