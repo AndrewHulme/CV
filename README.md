@@ -133,6 +133,7 @@ Please see [Technical Skills](#tech-skills) for more information.
 
 ## <a name="interests">Interests</a>
 
+- Coding: Regularly attend online tech meetups to keep up-to-date with recent trends and projects, e.g. React London Meetup, Time to React and Agile Tools.
 - Music: Grade 8 trumpeter, grade 5 pianist and self-taught bass guitarist.
 - Travelling: Independently backpacked around Southeast Asia from March to July 2017.
 - Sport: Keen tennis player and cyclist, and have worked for the bicycle repair service ‘Bikes R Us’.
