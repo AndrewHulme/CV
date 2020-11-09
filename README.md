@@ -2,8 +2,8 @@
   
 # Andrew Hulme #
 
-<a href="https://andrewhulme.github.io/"><img src="images/www.png" width="65" alt="My website"></a>
-<a href="https://linkedin.com/in/andrew-hulme"><img src="images/linkedin.png" width="75" alt="LinkedIn"></a>
+<a href="https://andrewhulme.github.io/"><img src="images/www.png" width="55" alt="My website"></a>
+<a href="https://linkedin.com/in/andrew-hulme"><img src="images/linkedin.png" width="64" alt="LinkedIn"></a>
 
 #
 
