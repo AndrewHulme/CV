@@ -22,7 +22,6 @@ I graduated with a Master's in Mechanical Engineering from the University of Bri
 
 | Project (Repository)   | Description | Links | Technologies |
 |:-:        |:-:          |:-:   |:-:           |
-
 | [Psych](https://github.com/AndrewHulme/Psych) | Current work in progress. Psych remake, based on the game 'Cards Against Humanity' | n/a | React, TypeScript, Redux, GraphQL, Ruby on Rails, Docker, HTML, CSS |
 | [Swipe and Shop](https://github.com/GarethWoodman/swipe_and_shop) | Current work in progress. Sell and buy items in a 'Tinder' style app | n/a | React JS/React Native, Node.js, MongoDB, Express.js, JavaScript, Mongoose, Cypress, Bootstrap, HTML, CSS |
 | [ThereAndBack](https://github.com/AndrewHulme/route_planner) | Single page web app with the main functionality of generating circular routes for a given distance and starting location. Group project of four members.  | [Deployed](https://thereandback.surge.sh/) <br> [Presentation (4 minute mark)](https://lnkd.in/dk9HyWh) | React, Firebase, Cypress, Istanbul, Leaflet, Location IQ API, Open Route Service API, GraphHopper API, Bootstrap, HTML, CSS |
