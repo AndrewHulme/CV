@@ -20,19 +20,27 @@ I graduated with a Master's in Mechanical Engineering from the University of Bri
 
 ## <a name="projects">Projects</a>
 
+### Post Makers Academy Projects
+
 | Project (Repository)   | Description | Links | Technologies |
 |:-:        |:-:          |:-:   |:-:           |
-| [Psych](https://github.com/AndrewHulme/Psych) | Current work in progress. Psych remake, based on the game 'Cards Against Humanity' | n/a | React, TypeScript, Redux, GraphQL, Ruby on Rails, Docker, HTML, CSS |
-| [Swipe and Shop](https://github.com/GarethWoodman/swipe_and_shop) | Current work in progress. Sell and buy items in a 'Tinder' style app | n/a | React JS/React Native, Node.js, MongoDB, Express.js, JavaScript, Mongoose, Cypress, Bootstrap, HTML, CSS |
+| [Psych](https://github.com/AndrewHulme/Psych) | Current work in progress. Psych remake, based on the game 'Cards Against Humanity'. | n/a | React, TypeScript, Redux, GraphQL, Ruby on Rails, Docker, HTML, CSS |
+| [Swipe and Shop](https://github.com/GarethWoodman/swipe_and_shop) | Current work in progress. Sell and buy items in a 'Tinder' style app. | [Deployed](https://swipe-and-shop.herokuapp.com/) | React JS/React Native, Node.js, MongoDB, Express.js, JavaScript, Mongoose, Cypress, Bootstrap, HTML, CSS |
+| [School Spider Tech Test](https://github.com/AndrewHulme/SSTechTest) | Single page web app. Fetches data from School Spider API to display all schools and news items. | n/a | React, Tailwind CSS, React Router, React Image Lightbox, HTML, CSS |
+| [ThereAndBack](https://github.com/AndrewHulme/route_planner) | Worked on project after Makers Academy to refactor code, fix bugs, and allow access for mobile devices. | [Deployed](https://thereandback.surge.sh/) <br> [Presentation (4 minute mark)](https://lnkd.in/dk9HyWh) | React, Firebase, Cypress, Istanbul, Leaflet, Location IQ API, Open Route Service API, GraphHopper API, Bootstrap, HTML, CSS |
+
+
+
+### Makers Academy Projects
+
+| Project (Repository)   | Description | Links | Technologies |
+|:-:        |:-:          |:-:   |:-:           |
 | [ThereAndBack](https://github.com/AndrewHulme/route_planner) | Single page web app with the main functionality of generating circular routes for a given distance and starting location. Group project of four members.  | [Deployed](https://thereandback.surge.sh/) <br> [Presentation (4 minute mark)](https://lnkd.in/dk9HyWh) | React, Firebase, Cypress, Istanbul, Leaflet, Location IQ API, Open Route Service API, GraphHopper API, Bootstrap, HTML, CSS |
 | [Acebook](https://github.com/AndrewHulme/acebook-the-fat-controllers-frontend) | Single page web app based on the social media site 'Facebook'. Group project of six team members. | [Deployed](http://acebook.surge.sh) | React, Ruby on Rails, PostgreSQL, Cypress, RSpec, Capybara, Bootstrap, HTML, CSS |
-| [School Spider Tech Test](https://github.com/AndrewHulme/SSTechTest) | Single page web app. Fetches data from School Spider API to display all schools and news items. | n/a | React, Tailwind CSS, React Router, React Image Lightbox, HTML, CSS |
-| [Makersbnb](https://github.com/AndrewHulme/Makersbnb) | Single page web app based on the online marketplace 'Airbnb'. Group project of four team members. | n/a | Ruby, Sinatra, PostgreSQL, RSpec, Capybara, Bootstrap, HTML, CSS |
 | [Bowling Scorecard](https://github.com/AndrewHulme/bowling-challenge) | A dynamic bowling scorecard based on the classic coding kata. | [Deployed](https://andrewhulme.github.io/bowling-challenge/) | JavaScript, jQuery, Jasmine, Bootstrap, HTML, CSS |
+| [Makersbnb](https://github.com/AndrewHulme/Makersbnb) | Single page web app based on the online marketplace 'Airbnb'. Group project of four team members. | n/a | Ruby, Sinatra, PostgreSQL, RSpec, Capybara, Bootstrap, HTML, CSS |
 | [Gilded Rose](https://github.com/AndrewHulme/GildedRose-Refactoring-Kata) | Exercise on the classic Gilded Rose coding kata, showcasing testing and refactoring legacy code. | n/a | Ruby, RSpec |
 | [Bank Tech Test](https://github.com/AndrewHulme/BankTechTest) | Allows users to interact with their account through depositing money, withdrawing money and printing their bank statement. | n/a | JavaScript, Jasmine |
-
-
 
 
 For more, please see my [GitHub repo list](https://github.com/AndrewHulme?tab=repositories).
