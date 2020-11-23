@@ -13,9 +13,12 @@
 
 ## <a name="about_me">About Me</a>
 
-A highly motivated software developer, recently trained at Makers Academy.
+A junior full-stack developer, recently trained at Makers Academy, specialising in JavaScript and React.
 
-I graduated with a Master's in Mechanical Engineering from the University of Bristol where I was first introduced to the world of coding. After university I worked in the engineering sphere for several years, building on a number of competencies such as problem solving, communication, leadership and team working skills. I am now keen to apply this wealth of skills and experience to a new-found passion in software development.
+Previously graduated with a Master's in Mechanical Engineering from the University of Bristol, and worked in engineering consultancies, including Ramboll, for over 3 years.
+
+Currently building 2 full-stack projects and regularly attend tech meetups such as 'React London Meetup' and 'Migrating Waitrose.com to React'.
+
 
 
 ## <a name="projects">Projects</a>
@@ -27,7 +30,7 @@ I graduated with a Master's in Mechanical Engineering from the University of Bri
 | [Psych](https://github.com/AndrewHulme/Psych) | Current work in progress. Psych remake, based on the game 'Cards Against Humanity'. | n/a | React, TypeScript, Redux, GraphQL, Ruby on Rails, Docker, HTML, CSS |
 | [Swipe and Shop](https://github.com/GarethWoodman/swipe_and_shop) | Current work in progress. Sell and buy items in a 'Tinder' style app. | [Deployed](https://swipe-and-shop.herokuapp.com/) | React JS/React Native, Node.js, MongoDB, Express.js, JavaScript, Mongoose, Cypress, Bootstrap, HTML, CSS |
 | [School Spider Tech Test](https://github.com/AndrewHulme/SSTechTest) | Single page web app. Fetches data from School Spider API to display all schools and news items. | n/a | React, Tailwind CSS, React Router, React Image Lightbox, HTML, CSS |
-| [ThereAndBack](https://github.com/AndrewHulme/route_planner) | Worked on project after Makers Academy to refactor code, fix bugs, and allow access for mobile devices. | [Deployed](https://thereandback.surge.sh/) <br> [Presentation (4 minute mark)](https://lnkd.in/dk9HyWh) | React, Firebase, Cypress, Istanbul, Leaflet, Location IQ API, Open Route Service API, GraphHopper API, Bootstrap, HTML, CSS |
+| [ThereAndBack](https://github.com/AndrewHulme/route_planner) | Worked on project after Makers Academy to fix bugs, refactor code, and allow access for mobile devices. | [Deployed](https://thereandback.surge.sh/) <br> [Presentation (4 minute mark)](https://lnkd.in/dk9HyWh) | React, Firebase, Cypress, Istanbul, Leaflet, Location IQ API, Open Route Service API, GraphHopper API, Bootstrap, HTML, CSS |
 
 
 
