@@ -52,12 +52,12 @@ For more, please see my [GitHub repo list](https://github.com/AndrewHulme?tab=re
 
 | Area | Skill |
 | --- | ---
-| Languages | JavaScript, Ruby, SQL, Markdown, HTML, CSS |
-| Technologies | React, Ruby on Rails, Node.js, Express.js, jQuery, npm, Sinatra, Bootstrap, Tailwind CSS, AWS (S3, Cloud9) |
+| Languages | JavaScript, TypeScript, Ruby, SQL, MATLAB, Markdown, HTML, CSS |
+| Technologies | React, Redux, Node.js, Ruby on Rails, Express.js, jQuery, npm, Sinatra, Bootstrap, Tailwind CSS, Material-UI, AWS (S3, Cloud9) |
 | Testing Frameworks | RSpec, Jasmine, Capybara, Cypress, created own testing framework from scratch |
 | Test Coverage | SimpleCov, Istanbul |
 | Databases | PostgreSQL, MongoDB, Firebase |
-| DevOps | Travis CI, Heroku, Surge |
+| DevOps | Travis CI, Heroku, Surge, Docker |
 | Version Control | GitHub |
 | Concepts | TDD, BDD, OOP, Agile methodology, RGR cycle, SOLID, DRY, DDD, MVC, RESTful APIs, Single page web apps, CRUD, Request/Response, Remote working, Pair programming, Stand-ups, Retros, Sprint planning |
 
