@@ -13,7 +13,7 @@
 
 ## <a name="about_me">About Me</a>
 
-A junior full-stack developer, recently trained at Makers Academy, specialising in JavaScript and React.
+A full-stack developer, recently trained at Makers Academy, specialising in JavaScript and React.
 
 Previously graduated with a Master's in Mechanical Engineering from the University of Bristol, and worked in engineering consultancies, including Ramboll, for over 3 years.
 
