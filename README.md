@@ -52,7 +52,7 @@ For more, please see my [GitHub repo list](https://github.com/AndrewHulme?tab=re
 
 | Area | Skill |
 | --- | ---
-| Languages | JavaScript, TypeScript, Ruby, SQL, MATLAB, Markdown, HTML, CSS |
+| Languages | JavaScript, TypeScript, Ruby, SQL, GraphQL, MATLAB, Markdown, HTML, CSS |
 | Technologies | React, Redux, Node.js, Ruby on Rails, Express.js, jQuery, npm, Sinatra, Bootstrap, Tailwind CSS, Material-UI, AWS (S3, Cloud9) |
 | Testing Frameworks | RSpec, Jasmine, Capybara, Cypress, created own testing framework from scratch |
 | Test Coverage | SimpleCov, Istanbul |
