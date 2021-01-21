@@ -29,7 +29,7 @@ Currently building 2 full-stack projects and regularly attend tech meetups such 
 |:-:        |:-:          |:-:   |:-:           |
 | [Psych](https://github.com/AndrewHulme/Psych) | Current work in progress. Psych remake, based on the game 'Cards Against Humanity'. | n/a | React, TypeScript, Redux, GraphQL, Ruby on Rails, Docker, Material-UI, HTML, CSS |
 | [Swipe and Shop](https://github.com/GarethWoodman/swipe_and_shop) | Current work in progress. Sell and buy items in a 'Tinder' style app. | [Deployed](https://swipe-and-shop.herokuapp.com/) | React JS, Node.js, MongoDB, Express.js, JavaScript, Mongoose, Cypress, Bootstrap, HTML, CSS |
-| [School Spider Tech Test](https://github.com/AndrewHulme/SSTechTest) | Single page web app. Fetches data from School Spider API to display all schools and news items. | n/a | React, Tailwind CSS, React Router, React Image Lightbox, HTML, CSS |
+| [School Spider Tech Test](https://github.com/AndrewHulme/SSTechTest) | Single page web app. Fetches data from School Spider API to display all schools and news items. | [Deployed](https://sstechtest.herokuapp.com/) | React, Tailwind CSS, React Router, React Image Lightbox, HTML, CSS |
 | [ThereAndBack](https://github.com/AndrewHulme/route_planner) | Worked on project after Makers Academy to fix bugs, refactor code, and allow access for mobile devices. | [Deployed](https://thereandback.surge.sh/) <br> [Presentation (4 minute mark)](https://lnkd.in/dk9HyWh) | React, Firebase, Cypress, Istanbul, Leaflet, Location IQ API, Open Route Service API, GraphHopper API, Bootstrap, HTML, CSS |
 
 
